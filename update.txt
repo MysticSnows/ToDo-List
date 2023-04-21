@@ -1,0 +1,4 @@
+Update in mongodb uses aggregation operator such as
+$set: to change the value of target key
+$push: to push element/object into an Array
+$pull: to delete the element/object frm Array, given the _id
